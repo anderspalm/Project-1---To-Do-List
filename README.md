@@ -70,10 +70,10 @@ If you have questions about whether or not your work adheres to these guidelines
 Below you can find an example of what the instructors' final product looks like. **Be creative with your own designs!**
 
 <p align="center">
-  <img src="screenshots/screenshot1.png" width="250">
-  <img src="screenshots/screenshot2.png" width="250">
-  <img src="screenshots/screenshot3.png" width="250">
-  <img src="screenshots/screenshot4.png" width="250">
+  <img src="screenshots/FirstScreen.png" width="250">
+  <img src="screenshots/SecondScreen.png" width="250">
+  <img src="screenshots/ThirdScreen.png" width="250">
+  <img src="screenshots/FourthScreen.png" width="250">
 </p>
 
 #### Project Feedback + Evaluation
